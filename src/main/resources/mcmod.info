@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fluidity",
+  "name": "Fluidity",
+  "description": "Magic, but with a focus on fluids and the seas",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Fuzzypickles14"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

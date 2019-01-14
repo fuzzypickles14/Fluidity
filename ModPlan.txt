@@ -1,0 +1,101 @@
+Book - Fluid Tome
+	- all mod instructions here
+	- crafted with a book and a water bucket
+	- Different schools??
+		- Fire: destruction, chaos 
+		- Light: light, daylight, holy, 
+		- Death: nighttime, darkness, evil
+		- Water: purists, basis for all other schools, aquatic creatures, the depths
+		- Air: transportation, moving, gasses
+		- Earth: warding, sturdy, building, defence 
+
+Compounds
+	- used to craft fluids by throwing them into mystic water or by using a mixer
+	- most are shaped recipes but some are found in dungeons, the depths of the ocean, and other places
+	- some compounds are needed in the recipe for others
+	- Compound Base: crafted with 4 gun powder and 4 redstone to make 4. Base for all compounds
+	- Tier 1 compounds:
+		- School of Fire:
+			- Base Fire Compound: basic compound for crafting
+			- Liquid Flame: scorches anything that enters
+		- School of Light:
+			- Base Light Compounds: basic compound for crafting
+			- Liquid Light Compound: glows
+		- School of Dark:
+			- Base Dark Compound: basic compound for crafting
+			- Dark Water Compound: slightly increases enemy spawn rate around it 
+		- School of Water:
+			- Base Water compound: basic compound for crafting
+			- Mystic Water: foundation for all other magic fluids
+		- School of Air:
+			- Base Air Compound: basic compound for crafting
+			- Swift Liquid: spreads faster, grants swiftness I for a short time
+		- School of Earth
+			- Base Earth Compound: basic compound for crafting.
+			- Filling Mud: flows slow, when fluid becomes inert then it turns into dirt
+				
+	- Tier 2 Compounds:
+		- School of Fire:
+			- Intermediate Fire Compound: Intermediate compound for crafting
+			- Liquid Scorch: smelts blocks that touch this. (cobble to smooth, sand to glass) will not smelt blocks into items (ore)
+			- Liquid Forge (Fire and Earth): smelts items thrown in
+		- School of Light:
+			- Intermediate Light Compounds: Intermediate compound for crafting
+			- Liquid Blessings: applies regeneration I and damage resistance
+			- Liquid Blazing Light (Light and Fire) - lights up an even large area and prevents mob spawns from within that area
+		- School of Dark:
+			- Intermediate Dark Compound: Intermediate compound for crafting 
+			- Liquid Darkness: snuffs all lights out in an area
+			- Liquid Poison (Dark and Earth): applies severe poison effects
+		- School of Water:
+			- Intermediate Water compound: Intermediate compound for crafting
+			- Liquid Breeding (Water and Earth): breeds animals nearby
+			- Liquid Hot Spring (Water and Fire): Does not turn into ices and melts ice and snow
+		- School of Air:
+			- Intermediate Air Compound: Intermediate compound for crafting
+			- Liquid ?Swift Movement?: Applies swiftness II
+			- Liquid Lightning (Fire and Air): charges mobs, attracts lightning during rain,
+		- School of Earth
+			- Intermediate Earth Compound: Intermediate compound for crafting.
+			- Liquid Barrier: keeps mobs away
+			- Liquid Fast Grow (Earth and Water): applies small bone meal effects to surronding plants
+			
+	
+	- Tier 3 Compounds:
+		- Liquid Highest Blessings: applies regen III, damage resist, other positive effects
+		- Liquid Warp: teleports entities to somewhere nearby
+		- Liquid Rapid Growth: rapidly grows nearby plants
+		- Liquid Acid: melts basic blocks
+		- Liquid Night: ??
+	- Tier 4 Compounds:
+		- Liquid Death:
+		
+		
+	
+Fluids
+	- all fluids are crafted my mixing Mystic Water with the necessary compound
+	- have 4 states: inert, active, activating, not active 
+		- inert: fluids passive and active abilities do nothing
+		- active: fluids passive and active abilities do something
+		- activating: fluid is being activated either from Mystic Water or from its inert state. from inert takes quicker. some fluids cause effects when activating
+	- the more complex the compound the more complex the fluid mechanics
+	- fluids expend some of their Water Energy during their passive and acitve rate
+	- when all water energy is expended, the fluid becomes inert and is as useful as water
+	
+	
+Activators:
+	- items that can activate fluid active effects, begin fountain crafts, and everything else
+	- multiple tiers that hold different levels of water energy
+	- can be filled with water in any way but needs ALOT to be used in different things (activating a fluid should take somewhere between 4 and 6 buckets of water)
+	- crafted with prismarine, and guardian drops
+	
+	
+Fountains:
+	- crafting system
+
+Well:
+	- way for fluids to not expend energy
+	
+Glyphs:
+	- ancient powerful artifacts representing each schools prowess
+	
