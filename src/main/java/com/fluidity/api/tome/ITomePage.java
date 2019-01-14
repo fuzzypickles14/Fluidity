@@ -5,6 +5,8 @@ public interface ITomePage {
 
     String contents = "";
 
+    String id = "";
+
     default String getTitle() {
         return title;
     }
@@ -12,4 +14,9 @@ public interface ITomePage {
     default String getContents() {
         return contents;
     }
+
+    default String getId() {
+        return id;
+    }
+
 }

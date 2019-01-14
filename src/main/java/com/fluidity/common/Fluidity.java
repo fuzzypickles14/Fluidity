@@ -1,6 +1,7 @@
 package com.fluidity.common;
 
 import com.fluidity.common.core.proxy.ISidedProxy;
+import com.fluidity.common.item.ModItems;
 import com.fluidity.common.lib.LibMod;
 import net.minecraft.init.Blocks;
 import net.minecraftforge.fml.common.Mod;
@@ -22,6 +23,7 @@ public class Fluidity
     public void preInit(FMLPreInitializationEvent event) {
         logger = event.getModLog();
         proxy.preInit(event);
+        ModItems.init();
     }
 
     @EventHandler

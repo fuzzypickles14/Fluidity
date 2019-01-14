@@ -9,6 +9,8 @@ public interface ITomeChapter {
 
     String contents = "";
 
+    String id = "";
+
     default String getTitle() {
         return title;
     }
@@ -16,6 +18,12 @@ public interface ITomeChapter {
     default String getContents() {
         return contents;
     }
+
+    default String getId() {
+        return id;
+    }
+
+
 
     void addPage(ITomePage page);
 }
