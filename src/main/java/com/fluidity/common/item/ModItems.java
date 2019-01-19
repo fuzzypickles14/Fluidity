@@ -20,19 +20,34 @@ import java.util.Objects;
 public final class ModItems {
     private static ArrayList<Item> items = new ArrayList<>();
     public static Item igniTome = null;
+    public static Item aquaTome = null;
+    public static Item earthernTome = null;
+    public static Item skyTome = null;
+    public static Item shiningTome = null;
+    public static Item shadowTome = null;
 
     @SubscribeEvent
     public static void registerItems(RegistryEvent.Register<Item> event) {
-        event.getRegistry().registerAll(igniTome);
+        event.getRegistry().registerAll(igniTome, aquaTome, earthernTome, skyTome, shiningTome, shadowTome);
     }
 
     public static void init() {
         igniTome = new ItemTome(LibItemNames.FIRE_TOME_NAME);
+        aquaTome = new ItemTome(LibItemNames.WATER_TOME_NAME);
+        earthernTome = new ItemTome(LibItemNames.EARTH_TOME_NAME);
+        skyTome = new ItemTome(LibItemNames.AIR_TOME_NAME);
+        shiningTome = new ItemTome(LibItemNames.LIGHT_TOME_NAME);
+        shadowTome = new ItemTome(LibItemNames.DARK_TOME_NAME);
     }
 
     @SubscribeEvent
     public static void registerRenders(ModelRegistryEvent event) {
         registerRender(igniTome);
+        registerRender(aquaTome);
+        registerRender(earthernTome);
+        registerRender(skyTome);
+        registerRender(shiningTome);
+        registerRender(shadowTome);
     }
 
     private static void registerRender(Item item) {

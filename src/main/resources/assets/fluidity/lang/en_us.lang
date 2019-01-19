@@ -1,2 +1,7 @@
 itemGroup.fluidity.tab=Fluidity
-item.fire_tome.name=Igni Tome
+item.fire_tome.name=House Igni Tome
+item.water_tome.name=House Aqua Tome
+item.air_tome.name=House Caelum Tome
+item.dark_tome.name=House Umbra Tome
+item.earth_tome.name=House Terram Tome
+item.light_tome.name=House Lucidum Tome
