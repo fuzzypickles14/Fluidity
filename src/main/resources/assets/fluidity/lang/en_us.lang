@@ -5,3 +5,4 @@ item.air_tome.name=House Caelum Tome
 item.dark_tome.name=House Umbra Tome
 item.earth_tome.name=House Terram Tome
 item.light_tome.name=House Lucidum Tome
+fluid.base_water=Blue Mystic Water

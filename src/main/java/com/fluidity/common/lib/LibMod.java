@@ -10,4 +10,6 @@ public final class LibMod {
     public static final String COMMON_PROXY = "com.fluidity.common.core.proxy.ServerProxy";
 
     public static final String CLIENT_PROXY = "com.fluidity.client.core.proxy.ClientProxy";
+
+    public static final String RESOURCE_LOCATION = MOD_ID.toLowerCase() + ":";
 }

@@ -12,4 +12,6 @@ public final class LibItemNames {
     public static final String LIGHT_TOME_NAME = "light_tome";
 
     public static final String DARK_TOME_NAME = "dark_tome";
+
+    public static final String BASE_WATER_FLUID_NAME = "base_water";
 }

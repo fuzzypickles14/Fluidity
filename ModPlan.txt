@@ -81,6 +81,14 @@ Fluids
 	- the more complex the compound the more complex the fluid mechanics
 	- fluids expend some of their Water Energy during their passive and acitve rate
 	- when all water energy is expended, the fluid becomes inert and is as useful as water
+
+
+Tanks
+    - multitudes of different types
+        - regular (just holds liquid)
+        - gathering (pulls liquid from its surrondings into it automatically (slowly)
+        - others?
+    - sizes 8B, 16B, 64B, 256B, 1024B, maybe more?
 	
 	
 Activators:
@@ -92,10 +100,13 @@ Activators:
 	
 Fountains:
 	- crafting system
+	- one fountain for each school
+	- multi school fluids need all the fountains in order to craft.
+	- all different looking multi block structures
 
-Well:
-	- way for fluids to not expend energy
+Pools:
+    - focus the given fluids unique attribute, strengthining their abilites and negating most of their drawbacks and getting rid of their energy requirement
 	
 Glyphs:
-	- ancient powerful artifacts representing each schools prowess
+	- ancient powerful seals from each school that is applied
 	
